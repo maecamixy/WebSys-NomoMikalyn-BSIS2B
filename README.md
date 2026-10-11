@@ -22,10 +22,14 @@ The project demonstrates my understanding of:
 ---
 
 ## Personalization Theme
-Project Brand Name: 
-Color Scheme Used:
-Typography Used:
-Design Goal:
+Project Brand Name: Mika's Web Studio. A personal web development portfolio that showcases my learning progress, laboratory activities, and practical skills in Web Systems and Technologies.
+Color Scheme Used: Soft Lavender/Brown (#E6E0F8) – adds a calm and creative touch to the design.
+White (#FFFFFF) – keeps the layout clean and readable.
+Dark Gray/Black – makes the text clear and easy to read.
+Pink/Blue – used for buttons, links, and important design elements
+Typography Used: Poppins – used for headings to create a modern and friendly appearance.
+Arial – used for body text to maintain readability and simplicity.
+Design Goal: The goal of this portfolio is to present my Web Systems and Technologies laboratory activities in an organized, creative, and user-friendly way. The design focuses on simplicity, consistency, readability, and accessibility while applying HTML, CSS, and JavaScript concepts learned throughout the course.
 
 ---
 
